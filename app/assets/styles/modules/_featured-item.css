@@ -1,8 +1,8 @@
 .featured-item {
-    
+
     position: relative;
     padding-bottom: 2.5rem;
-    
+
     @mixin atSmall {
         padding-left: 94px;
     }
@@ -13,7 +13,7 @@
 
         @mixin atSmall {
             position: absolute;
-            left:0;
+            left: 0;
         }
     }
 
